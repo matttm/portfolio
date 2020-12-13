@@ -8,6 +8,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -23,6 +30,13 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\workspace\portfolio\src\app" />
+      <recent name="C:\Users\Admin\workspace\portfolio\src" />
+      <recent name="C:\Users\Admin\workspace\portfolio\tests" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607795057991</updated>
       <workItem from="1607795059461" duration="1512000" />
-      <workItem from="1607877258087" duration="585000" />
+      <workItem from="1607877258087" duration="1548000" />
     </task>
     <servers />
   </component>
