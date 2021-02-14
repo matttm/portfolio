@@ -1,7 +1,15 @@
 import React from 'react';
 
-class Navbar  extends React.Component {
+export default class Navbar  extends React.Component {
     render() {
-        return <h3>navbar</h3>
+        return (
+            <header>
+                <ul>
+                    <li><a id="home" href="#">Matt Maloney</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </header>
+        );
     }
 }

@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import Navbar from "../navbar/navbar";
 import './App.css';
 import React from "react";
 
@@ -7,8 +7,7 @@ class App extends React.Component {
   render() {
     return (
         <div className="App">
-          <header className="App-header">
-          </header>
+          <Navbar />
         </div>
     );
   }
