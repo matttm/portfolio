@@ -1,0 +1,27 @@
+nav {
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#navbar {
+    background: linear-gradient(rgba(1, 1, 1, 0.5), transparent), rgba(13,13,27,0.93);
+    height: 10vh;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+}
+
+#logo {
+    flex: 2;
+}
+
+ul li {
+    justify-items: center;
+    align-items: center;
+    flex: 1;
+}
