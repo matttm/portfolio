@@ -9,15 +9,17 @@ a {
 #navbar {
     background: linear-gradient(rgba(1, 1, 1, 0.5), transparent), rgba(13,13,27,0.93);
     height: 10vh;
+    padding: 4px;
 }
 
 nav ul {
     display: flex;
     flex-direction: row;
+    flex: 2 1 29px;
 }
 
 #logo {
-    flex: 2;
+    flex: 1 1 20px;
 }
 
 ul li {
